@@ -1,0 +1,8 @@
+Name            	              ID	        Priority	isDaemon        	State           	Group           
+====            	              ==	        ========	========        	=====           	=====           
+Reference Handler	               2	              10	true            	RUNNABLE        	system          
+Finalizer       	               3	               8	true            	WAITING         	system          
+Signal Dispatcher	               4	               9	true            	RUNNABLE        	system          
+Notification Thread	              12	               9	true            	RUNNABLE        	system          
+main            	               1	               5	false           	RUNNABLE        	main            
+Common-Cleaner  	              13	               8	true            	TIMED_WAITING   	InnocuousThreadGroup
