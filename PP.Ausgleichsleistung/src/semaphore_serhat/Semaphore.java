@@ -1,4 +1,4 @@
-package threads;
+package semaphore_serhat;
 
 import java.util.concurrent.TimeUnit;
 

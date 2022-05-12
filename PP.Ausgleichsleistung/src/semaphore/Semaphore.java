@@ -1,4 +1,4 @@
-package Semaphore;
+package semaphore;
 
 public class Semaphore {
 	
